@@ -2,11 +2,7 @@ import Image from "next/image";
 import { useCountries } from "../lib/getCountries";
 import Link from "next/link";
 import { AddToFavoriteButton, DeleteFromFavoriteButton } from "./Submitbottons";
-import {
-  addToFavorite,
-  deleteFromFavorite,
-  DeleteFromFavorite,
-} from "../action";
+import { addToFavorite, deleteFromFavorite } from "../action";
 
 interface iAppProps {
   imagePath: string;
