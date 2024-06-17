@@ -2,9 +2,6 @@
 
 This project is an Airbnb clone, focused on implementing core functionalities rather than just design replication.
 
----
-
-This is a Next.js project bootstrapped with `create-next-app`.
 
 ## Tech Stack
 
