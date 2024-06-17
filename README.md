@@ -1,4 +1,3 @@
-# Airbnb Clone Project
 This project is an Airbnb clone, focused on implementing core functionalities rather than just design replication.
 
 
