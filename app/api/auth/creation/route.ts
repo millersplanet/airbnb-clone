@@ -33,5 +33,5 @@ export async function GET() {
     });
   }
 
-  return NextResponse.redirect("https://airbnb-clone-phi-sand.vercel.app");
+  return NextResponse.redirect("https://homers-phi-sand.vercel.app");
 }
