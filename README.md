@@ -1,4 +1,6 @@
-This project is an homers, airbnb-alike, online marketplace service for short- and long-term homestays and experiences, focused on implementing core functionalities rather than just design replication.
+![homers](https://github.com/user-attachments/assets/31b5d996-bb19-4cd7-b2ce-5f2087c06f53)
+
+This project is a **_homers_**, airbnb-alike, online marketplace service for short- and long-term homestays and experiences, focused on implementing core functionalities rather than just design replication.
 
 
 ## Tech Stack
