@@ -1,6 +1,6 @@
 import Image from "next/image";
-import DesktopLogo from "@/public/airbnb-desktop.png";
-import MobileLogo from "@/public/airbnb-mobile.webp";
+import DesktopLogo from "@/public/homers.png";
+import MobileLogo from "@/public/homer.png";
 import { UserNav } from "./UserNav";
 import { SearchModal } from "./SearchModal";
 
