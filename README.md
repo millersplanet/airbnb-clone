@@ -1,4 +1,4 @@
-This project is an Airbnb clone, focused on implementing core functionalities rather than just design replication.
+This project is an homers, airbnb-alike, online marketplace service for short- and long-term homestays and experiences, focused on implementing core functionalities rather than just design replication.
 
 
 ## Tech Stack
